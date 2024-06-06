@@ -17,11 +17,6 @@ The project aims to enhance the efficiency of waste collection, reduce operation
 
 For detailed documentation, please refer to the attached PDF.
 
-## Project Team
-- **Adhvaith Sankar S S** 
-- **Ajay Raj M** 
-- **Rohith M**
-
 ## Table of Contents
 1. Objective
 2. Hardware Selection and Design
@@ -35,4 +30,9 @@ For detailed documentation, please refer to the attached PDF.
 10. Conclusion and Future Scope
 
 ![Poster](Poster.jpg)
+
+## Project Team
+- **Adhvaith Sankar S S** 
+- **Ajay Raj M** 
+- **Rohith M**
 
