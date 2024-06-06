@@ -1,7 +1,5 @@
 # Smart Waste Management System
 
-Welcome to the Smart Waste Management System project.
-
 ## Project Overview
 The project aims to enhance the efficiency of waste collection, reduce operational costs, and promote environmental sustainability by implementing an IoT-based smart waste management system.
 
